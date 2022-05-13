@@ -1,0 +1,7 @@
+name: InventoryManager
+main: Nathan45\Inventories\Loader
+author: Nathan45
+api: 4.0.0
+version: 0.1
+website: "github.com/Nathan459770"
+description: "A PocketMine-MP plugin to easily save inventories in a database."
