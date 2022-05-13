@@ -10,7 +10,7 @@ A PocketMine-MP plugin to easily save inventories in a database.
 * To use it you'll have to import `DatabaseManager` object and the `InventoryManager` object.
 
 ## Be careful !
-If you have put the api in your folder, you need to run these lines of code in the onEnable of your main file
+If you have put the api in your folder, you need to run these lines of code in the onEnable function of your main file
 ```php
     $db = DatabaseManager::getInstance();
        
